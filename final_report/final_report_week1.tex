@@ -24,9 +24,26 @@ As this challenge will surely affect various areas - urban planning, environment
 How does the price of houses vary between different neighborhoods of Toronto?
 
 \subsection{Data}
-This project requires first the housing price data. We have obtained house sales data of the Province Ontario \cite{houses_sale}. This dataset contains 6 columns: address, areaName (the name of the area where the house is located), the price, the latitude and longitude of the location. Furthermore, there is no missing entry in the dataset.\\
+This project requires first the housing price data. We have obtained house sales data of the Province Ontario \cite{houses_sale}. This dataset contains 6 columns: address, areaName (the name of the area where the house is located), the price, the latitude and longitude of the location. Furthermore, there is no missing entry in the dataset. Figure \ref{fig:hs} shows an example of the house sales data.\\
 
-Secondly, we obtain venues data of each neighborhood from Foursquare using the postal codes obtained from the wikipedia page: "List of all Postal Codes in Canada M". From the Foursquare venues data, we will extract the neighborhood, the neighborhood latitude, the neighborhood longitude, the name of the venue, and the coordinates of the the venue (latitude and longitude)	Venue and the category of the venue. We will combine these informations with the the house sales data to compare how the price varies between neighborhoods of different characteristics. 
+\begin{figure}
+	
+	\includegraphics[]{hs.png}
+	\caption{House Sales in the Ontario Province}
+	\label{fig:hs}
+	
+\end{figure}
+
+Secondly, we obtain venues data of each neighborhood from Foursquare using the postal codes obtained from the wikipedia page: "List of all Postal Codes in Canada M". From the Foursquare venues data, we will extract the neighborhood, the neighborhood latitude, the neighborhood longitude, the name of the venue, and the coordinates of the the venue (latitude and longitude)	Venue and the category of the venue. We will combine these informations with the the house sales data to compare how the price varies between neighborhoods of different characteristics. Figure \ref{fig:tv} shows an example of the venues data from Foursquare.
+
+\begin{figure}[hbt!]
+	
+	\includegraphics[width=\textwidth]{tv.png}
+	\caption{Venues data in Toronto}
+	\label{fig:tv}
+	
+\end{figure}
+
 
 
 
