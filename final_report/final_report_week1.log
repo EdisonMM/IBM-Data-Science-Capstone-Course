@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2020.6.23)  11 JUL 2020 22:20
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2020.6.23)  11 JUL 2020 23:02
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -220,50 +220,47 @@ File: hs3.png Graphic file (type png)
 <use hs3.png>
 Package pdftex.def Info: hs3.png  used on input line 135.
 (pdftex.def)             Requested size: 103.50105pt x 68.99686pt.
-
-
-LaTeX Warning: Reference `fig:avg' on page 6 undefined on input line 141.
-
-[6 <./map2.png> <./hs1.png> <./hs2.png> <./hs3.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 144--146
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 149--150
+<avg.png, id=39, 433.62pt x 289.08pt>
+File: avg.png Graphic file (type png)
+<use avg.png>
+Package pdftex.def Info: avg.png  used on input line 143.
+(pdftex.def)             Requested size: 345.0pt x 230.01158pt.
+ [6 <./map2.png> <./hs1.png> <./hs2.png> <./hs3.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 152--154
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 151--152
+Underfull \hbox (badness 10000) in paragraph at lines 157--158
 
  []
 
-(./final_report_week1.bbl [7]) [8] (./final_report_week1.aux)
+[7 <./avg.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 159--160
 
-LaTeX Warning: There were undefined references.
+ []
 
- ) 
+(./final_report_week1.bbl) [8] (./final_report_week1.aux) ) 
 Here is how much of TeX's memory you used:
- 1597 strings out of 481239
- 22315 string characters out of 5920377
- 257852 words of memory out of 5000000
- 16880 multiletter control sequences out of 15000+600000
- 536593 words of font info for 38 fonts, out of 8000000 for 9000
+ 1601 strings out of 481239
+ 22355 string characters out of 5920377
+ 257861 words of memory out of 5000000
+ 16884 multiletter control sequences out of 15000+600000
+ 536285 words of font info for 37 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  30i,7n,25p,754b,255s stack positions out of 5000i,500n,10000p,200000b,80000s
-</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></us
-r/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/shar
-e/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/share/texl
-ive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texlive/tex
-mf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texlive/texmf-dist
-/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/share/texlive/texmf-dist/fonts/
-type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texlive/texmf-dist/fonts/type1/
-public/amsfonts/cm/cmsy7.pfb>
-Output written on final_report_week1.pdf (8 pages, 1609966 bytes).
+</usr/share/texlive/
+texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/share/texlive/texmf-
+dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/share/texlive/texmf-dist/f
+onts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texlive/texmf-dist/fonts/ty
+pe1/public/amsfonts/cm/cmr12.pfb></usr/share/texlive/texmf-dist/fonts/type1/pub
+lic/amsfonts/cm/cmr17.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/ams
+fonts/cm/cmsy10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/
+cm/cmsy7.pfb>
+Output written on final_report_week1.pdf (8 pages, 1608241 bytes).
 PDF statistics:
- 83 PDF objects out of 1000 (max. 8388607)
- 45 compressed objects within 1 object stream
+ 81 PDF objects out of 1000 (max. 8388607)
+ 42 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
- 51 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 56 words of extra memory for PDF output out of 10000 (max. 10000000)
 
