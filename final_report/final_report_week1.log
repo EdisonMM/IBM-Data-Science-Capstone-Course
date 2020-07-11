@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2020.6.23)  26 JUN 2020 12:53
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2020.6.23)  11 JUL 2020 22:20
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -144,24 +144,126 @@ File: tv.png Graphic file (type png)
 Package pdftex.def Info: tv.png  used on input line 41.
 (pdftex.def)             Requested size: 345.0pt x 60.74496pt.
 
-(./final_report_week1.bbl) [2 <./hs.png> <./tv.png>] (./final_report_week1.aux)
+Underfull \hbox (badness 10000) in paragraph at lines 49--50
+
+ []
+
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 51.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 51.
+
+Underfull \hbox (badness 10000) in paragraph at lines 51--52
+
+ []
+
+<hs_final.png, id=13, 529.98pt x 139.52126pt>
+File: hs_final.png Graphic file (type png)
+<use hs_final.png>
+Package pdftex.def Info: hs_final.png  used on input line 55.
+(pdftex.def)             Requested size: 345.0pt x 90.82397pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 61--62
+
+ []
+
+[2 <./hs.png> <./tv.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 63--64
+
+ []
+
+<final.png, id=19, 972.63374pt x 244.915pt>
+File: final.png Graphic file (type png)
+<use final.png>
+Package pdftex.def Info: final.png  used on input line 70.
+(pdftex.def)             Requested size: 345.0pt x 86.87254pt.
+[3 <./hs_final.png> <./final.png>]
+<map1.jpg, id=26, 869.2475pt x 608.2725pt>
+File: map1.jpg Graphic file (type jpg)
+<use map1.jpg>
+Package pdftex.def Info: map1.jpg  used on input line 82.
+(pdftex.def)             Requested size: 345.0pt x 241.42055pt.
+<hp.png, id=27, 433.62pt x 289.08pt>
+File: hp.png Graphic file (type png)
+<use hp.png>
+Package pdftex.def Info: hp.png  used on input line 92.
+(pdftex.def)             Requested size: 345.0pt x 230.01158pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 100--101
+
+ []
+
+[4 <./map1.jpg>]
+<map2.png, id=31, 873.2625pt x 569.12625pt>
+File: map2.png Graphic file (type png)
+<use map2.png>
+Package pdftex.def Info: map2.png  used on input line 106.
+(pdftex.def)             Requested size: 345.0pt x 224.84148pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 114--115
+
+ []
+
+[5 <./hp.png>]
+<hs1.png, id=36, 433.62pt x 289.08pt>
+File: hs1.png Graphic file (type png)
+<use hs1.png>
+Package pdftex.def Info: hs1.png  used on input line 121.
+(pdftex.def)             Requested size: 103.50105pt x 68.99686pt.
+<hs2.png, id=37, 433.62pt x 289.08pt>
+File: hs2.png Graphic file (type png)
+<use hs2.png>
+Package pdftex.def Info: hs2.png  used on input line 128.
+(pdftex.def)             Requested size: 103.50105pt x 68.99686pt.
+<hs3.png, id=38, 433.62pt x 289.08pt>
+File: hs3.png Graphic file (type png)
+<use hs3.png>
+Package pdftex.def Info: hs3.png  used on input line 135.
+(pdftex.def)             Requested size: 103.50105pt x 68.99686pt.
+
+
+LaTeX Warning: Reference `fig:avg' on page 6 undefined on input line 141.
+
+[6 <./map2.png> <./hs1.png> <./hs2.png> <./hs3.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 144--146
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 149--150
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 151--152
+
+ []
+
+(./final_report_week1.bbl [7]) [8] (./final_report_week1.aux)
+
+LaTeX Warning: There were undefined references.
+
  ) 
 Here is how much of TeX's memory you used:
- 1535 strings out of 481239
- 21637 string characters out of 5920377
- 257787 words of memory out of 5000000
- 16828 multiletter control sequences out of 15000+600000
- 536285 words of font info for 37 fonts, out of 8000000 for 9000
+ 1597 strings out of 481239
+ 22315 string characters out of 5920377
+ 257852 words of memory out of 5000000
+ 16880 multiletter control sequences out of 15000+600000
+ 536593 words of font info for 38 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 30i,6n,25p,665b,209s stack positions out of 5000i,500n,10000p,200000b,80000s
-</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></us
-r/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share
-/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texliv
-e/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb>
-Output written on final_report_week1.pdf (2 pages, 105707 bytes).
+ 30i,7n,25p,754b,255s stack positions out of 5000i,500n,10000p,200000b,80000s
+</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></us
+r/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/shar
+e/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/share/texl
+ive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texlive/tex
+mf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texlive/texmf-dist
+/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/share/texlive/texmf-dist/fonts/
+type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texlive/texmf-dist/fonts/type1/
+public/amsfonts/cm/cmsy7.pfb>
+Output written on final_report_week1.pdf (8 pages, 1609966 bytes).
 PDF statistics:
- 32 PDF objects out of 1000 (max. 8388607)
- 19 compressed objects within 1 object stream
+ 83 PDF objects out of 1000 (max. 8388607)
+ 45 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
- 11 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 51 words of extra memory for PDF output out of 10000 (max. 10000000)
 
